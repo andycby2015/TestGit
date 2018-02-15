@@ -1,3 +1,4 @@
 # TestGit
 Get familiar with Git
-Modified at 2/15/2018 1918
+Commit test: 2/15/2018 1918
+Staging test: 2/15/2018 1923
